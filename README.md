@@ -1,4 +1,4 @@
-# Mathematical_modeling_prepare
+# Materials for Mathematical_Modeling competition
 > a repo for our team for preparing the M&M exam--"**保底省三**".
 > Below are some materials for the competition.
 
