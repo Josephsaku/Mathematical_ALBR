@@ -1,6 +1,13 @@
 # Mathematical_modeling_prepare
-> a repo for our team for preparing the M&M exam.
-> Below are some materials for the exam.
+> a repo for our team for preparing the M&M exam--"**保底省三**".
+> Below are some materials for the competition.
+
+## Basic info of the competition
+
+* time: **Sept.4th 18pm-Sept.7th 20pm**
+* fee: 省三以上报销费用
+* account: 信息导入系统后激活帐号参赛
+<img width="2342" height="720" alt="16d9ea8624dae470f387f0d8f9eb3a24" src="https://github.com/user-attachments/assets/ee4e185b-0b6f-4c24-b1e8-92f841e8b453" />
 
 ## Tools(the manual or the download link)
 
