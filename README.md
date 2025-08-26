@@ -4,7 +4,7 @@
 
 ## Basic info of the competition
 
-* time: **Sept.4th 18pm-Sept.7th 20pm**
+* duration time: **Sept.4th 6pm-Sept.7th 8pm**(9月四日18点到七日20点）
 * fee: 省三以上报销费用
 * account: 信息导入系统后激活帐号参赛
 <img width="2342" height="720" alt="16d9ea8624dae470f387f0d8f9eb3a24" src="https://github.com/user-attachments/assets/ee4e185b-0b6f-4c24-b1e8-92f841e8b453" />
