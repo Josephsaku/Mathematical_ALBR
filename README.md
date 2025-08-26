@@ -25,5 +25,4 @@ Useful AI:[Google AI studio](https://aistudio.google.com/prompts/new_chat)
 
 [2024真题下载](https://www.mcm.edu.cn/html_cn/node/a0c1fb5c31d43551f08cd8ad16870444.html)
 
-[网络资料](https://pan.quark.cn/s/3142f6c83d14)
 
