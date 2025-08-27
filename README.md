@@ -1,5 +1,6 @@
 # Materials for Mathematical_Modeling competition
 > a repo for our team for preparing the M&M exam--"**保底省三**".
+> 
 > Below are some materials for the competition.
 
 ## Basic info of the competition
@@ -29,7 +30,9 @@ Useful AI:[Google AI studio](https://aistudio.google.com/prompts/new_chat)
 > 链接: https://pan.baidu.com/s/1xEUclqz9PQSO67l0vEDSFA?pwd=8xm8 提取码: 8xm8
 
 [数模大师兄：全套数学模型、算法、编程、写作、MATLAB教学视频](https://www.bilibili.com/video/BV1p14y1U7Nr/?share_source=copy_web&vd_source=c6dacd63935668fa4857babf8c2f185d)
+> 数模大师兄资料分享：
 
+> 链接：https://pan.baidu.com/s/13b756L-IxbSkVxFBHY12GA 提取码：3xjx --来自百度网盘超级会员V6的分享
 [2024真题下载](https://www.mcm.edu.cn/html_cn/node/a0c1fb5c31d43551f08cd8ad16870444.html)
 
 
