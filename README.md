@@ -34,6 +34,20 @@ Useful AI:[Google AI studio](https://aistudio.google.com/prompts/new_chat)
 
 > 链接：https://pan.baidu.com/s/13b756L-IxbSkVxFBHY12GA 提取码：3xjx --来自百度网盘超级会员V6的分享
 >
+> 数模加油站资料（优秀论文以及latex模版）：
+> 
+> 国赛word/latex模板：链接：https://pan.baidu.com/s/1Ww9d1rRN10ssJMY9OorFzw?pwd=38ro 提取码：38ro
+>
+> 「1.国赛：高教社杯全国大学生数学建模竞赛优秀论文【微信公众号：数模加油站】」，点击链接即可保存。
+> 
+> 链接：https://pan.quark.cn/s/dac6464147ec 提取码：1Yq4
+> 
+> 通过网盘分享的文件：2024高教社杯全国大学生数学建模竞赛优秀论文
+> 
+> 链接: https://pan.baidu.com/s/18nEIftY0uLCH-wf_xQxiNA?pwd=9su6 提取码: 9su6
+> 
+> --来自百度网盘超级会员v5的分享
+> 
 [2024真题下载](https://www.mcm.edu.cn/html_cn/node/a0c1fb5c31d43551f08cd8ad16870444.html)
 
 
