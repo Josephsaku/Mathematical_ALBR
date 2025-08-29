@@ -50,4 +50,8 @@ Useful AI:[Google AI studio](https://aistudio.google.com/prompts/new_chat)
 > 
 [2024真题下载](https://www.mcm.edu.cn/html_cn/node/a0c1fb5c31d43551f08cd8ad16870444.html)
 
+ matlab相关技能（包括各种算法）学习网站（mathwork官方）。
+这个网站最大的特点就是可以模拟MATLAB环境进行实操，熟悉软件。
+
+https://matlabacademy.mathworks.com/cn/?page=1&sort=featured
 
