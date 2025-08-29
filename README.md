@@ -13,7 +13,7 @@
 ## Tools(the manual or the download link)
 
 Matlab: https://ww2.mathworks.cn/help/install/ug/install-products-with-internet-connection.html
-
+Matlab越狱版教程： https://cloud.tencent.com/developer/article/2558100
 there's also the activation tutorial(学生版软件激活教程) for the software in the repo(在仓库).
 
 **Matlab相对必备工具包，加粗为必备**
