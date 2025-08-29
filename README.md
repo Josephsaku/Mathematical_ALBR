@@ -55,3 +55,9 @@ Useful AI:[Google AI studio](https://aistudio.google.com/prompts/new_chat)
 
 https://matlabacademy.mathworks.com/cn/?page=1&sort=featured
 
+## Use of AI tools
+
+**注意：不能让AI完成建模的核心步骤，只能用于算法优化。**
+
+<img width="710" height="382" alt="image" src="https://github.com/user-attachments/assets/da0dcb29-e2c5-4578-9731-42e6c3e3b14d" />
+
